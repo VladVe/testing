@@ -1,3 +1,2 @@
 Ich bin eine Konfigdatei
-Neue Zeile
-Noch eine Zeile
+Veränderte Zeile
